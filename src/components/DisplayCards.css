@@ -1,0 +1,20 @@
+.display-cards {
+
+    .position {
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .teacher {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .student {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+}
